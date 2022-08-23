@@ -1,6 +1,6 @@
 class Fetch {
   async getCurrent(input) {
-    const myKey = "67367a72e9eb923ff8930f543e739898";
+    const myKey = "INSERT API KEY";
 
     //make request to url
 
